@@ -1,5 +1,5 @@
 
-# Week1: 01/13/2020 - 01/20/2020
+# Week 1: 01/13/2020 - 01/20/2020
 * 👍 Attended lecture
 * 👍 Posted my bio on Piazza
 * 👍 Created accounts on github and Chameleoncloud
